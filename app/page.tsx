@@ -13,12 +13,14 @@ export default function Home() {
           priority
         />
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 style={{ border:'1px solid blue'}} className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
+          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
             허들러스 막내 아닌 수아수아.
             
           </h1>
+          <br/>
           <p className="max-w-md border text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-그로스팀 드가자아ㅏㅏㅏㅏ   <br/>         <a
+              ♥️그로스팀 드가자아♥️            
+            <a
               href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
               className="font-medium text-zinc-950 dark:text-zinc-50"
             >
